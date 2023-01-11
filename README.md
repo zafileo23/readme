@@ -1,6 +1,6 @@
 # cx-copilot
 
-Empower your CX team with open-source AI-powered response auto-drafting. 🤖.
+🤖 Empower your CX team with open-source AI-powered response auto-drafting. 🤖
 
 ## 🤔 What is cx-copilot?
 
