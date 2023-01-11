@@ -24,7 +24,7 @@ The basis of cx-copilot is embedding, vector storing and vector searching. Vecto
 
 ## 🧰 Integrations 
 
-Helpscout <img src="https://style.helpscout.com/images/logo/help-scout-logo-circle-blue.svg" alt="Helpscout logo" height="200px">
+Helpscout <img src="https://style.helpscout.com/images/logo/help-scout-logo-circle-blue.svg" alt="Helpscout logo" height="100px">
 Gmail
 Intercom (coming soon)
 Zendesk (coming soon)
