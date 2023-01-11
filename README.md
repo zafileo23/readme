@@ -4,7 +4,7 @@
 
 ## 🤔 What is cx-copilot?
 
-An open source library that lets you leverage LLMs and latest advancements in AI to automate customer success interactions. By connecting a Large Language Model (LLM) to your knowledge base and historical support tickets via embeddings & vector searching, you can accurately auto-draft responses to all customer requests.
+An open source library that lets you leverage LLMs and latest advancements in AI to automate customer support interactions. By connecting a Large Language Model (LLM) to your knowledge base and historical support tickets via embeddings & vector searching, you can accurately auto-draft responses to all customer requests.
 
 ## Where can it be used?
 
