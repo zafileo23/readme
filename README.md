@@ -32,23 +32,9 @@ The basis of cx-copilot is embedding, vector storing and vector searching. Vecto
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Zendesk_logo.svg/2560px-Zendesk_logo.svg.png" alt="Zendesk logo" height="50px"> | Zendesk (coming soon) |
 | <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord logo" height="50px"> | Discord (coming soon) |
 
-<img src="https://style.helpscout.com/images/logo/help-scout-logo-circle-blue.svg" alt="Helpscout logo" height="50px">   Helpscout
-
-<img src="https://www.svgrepo.com/download/303161/gmail-icon-logo.svg" alt="Gmail logo" height="50px">   Gmail
-
-<img src="https://cdn.worldvectorlogo.com/logos/intercom-1.svg" alt="Intercom logo" height="50px"> (coming soon)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Zendesk_logo.svg/2560px-Zendesk_logo.svg.png" alt="Zendesk logo" height="50px"> (coming soon) 
-
-<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord logo" height="50px">    Discord (coming soon)
-
 ## 📱 Community
 
 Join the [Discord community for cx-copilot](https://discord.gg/XhPnzxhm6y) for support & project updates.
 
 ## 👩‍💻 Contributing
 
-
-| Image | Text |
-|-------|------|
-| ![](image.svg) | Some text goes here. |
