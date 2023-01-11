@@ -1,6 +1,6 @@
 # cx-copilot
 
-⚡ Building applications with LLMs through composability ⚡
+🤖 Empower your CX team with open-source AI-powered response auto-drafting. 🤖
 
 ## 🤔 What is cx-copilot?
 
