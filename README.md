@@ -39,3 +39,8 @@ The basis of cx-copilot is embedding, vector storing and vector searching. Vecto
 Join the [Discord community for cx-copilot](https://discord.gg/XhPnzxhm6y) for support & project updates.
 
 ## 👩‍💻 Contributing
+
+
+| Image | Text |
+|-------|------|
+| ![](image.svg) | Some text goes here. |
