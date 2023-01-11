@@ -6,7 +6,7 @@
 
 An open source library that lets you leverage LLMs and latest advancements in AI to automate customer support interactions. By connecting a Large Language Model (LLM) to your knowledge base and historical support tickets via embeddings & vector searching, you can accurately auto-draft responses to all customer requests.
 
-## Where can it be used?
+## 🖥 Where can it be used?
 
 You can use cx-copilot to auto-draft responses in Helpdesk, Intercom, Support Inboxes, Zendesk, and anywhere else you store & respond to customer requests.
 
